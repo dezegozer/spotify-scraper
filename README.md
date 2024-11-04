@@ -7,6 +7,7 @@ Access detailed Spotify statistics with ease! Get playcounts!
 - User-friendly API
 - Cheap(!)
 - More data than spotify official api
+- Get spotify search results
 
 
 <a href="https://rapidapi.com/LostInFame/api/spotify-advanced-stats" target="_blank">
